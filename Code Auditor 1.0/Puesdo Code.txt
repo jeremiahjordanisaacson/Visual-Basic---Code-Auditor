@@ -1,0 +1,136 @@
+build the database
+
+
+
+
+
+
+txtUsername
+txtPassword
+txtConfirmPassword
+txtFirstName
+txtLastName
+txtEmail
+txtConfirmEmail
+
+
+
+
+
+
+
+
+4 tables
+
+tbl_Login
+Login_ID- Primary Key
+Login_Name
+Login_Password - Encrypted MD5
+Login_First_Name
+Login_Last_Name
+
+
+tbl_Project (10_possible)
+Audit_ID int(11) need to add this field
+Project_ID int(50)
+Project_SelectedCodeLogic
+Project_SelectedCodeDataTypes
+Project_SelectedOverallCodeDesign
+Project_SelectedSecurity
+Project_SelectedDocumentation
+Project_SelectedInterfaceDesign
+Project_SelectedProgramSize
+Project_SelectedCodeLogic_Comments
+Project_SelectedCodeDataTypes_Comments
+Project_SelectedOverallCodeDesign_Comments
+Project_SelectedSecurity_Comments
+Project_SelectedDocumentation_Comments
+Project_SelectedInterfaceDesign_Comments
+Project_SelectedProgramSize_Comments
+Project_TotalRating
+Project_Status
+Project_Project_Name
+Project_Auditor_ID
+Project_First_Name_Of_Person_Being_Audited
+Project_Last_Name_Of_Person_Being_Audited
+
+
+
+
+
+
+table_Master_Project (ten made up projects)
+Project_ID
+Project_Name
+
+
+Disability Discrimination Case Against United Airlines Settled For Nearly $1 Million 
+
+By D. Maimon Kirschenbaum
+
+Source: http://www.employment-lawyer-blog.com/2009/03/disability-discrimination-case.html
+
+
+
+
+Validation of the form data
+Insert the data into the database
+
+Once the user logs in new form elements -
+
+
+
+
+
+
+
+http://www.independent.co.uk/life-style/health-and-families/health-news/the-company-that-turned-disability-into-an-asset-1801627.html
+
+
+When Thorkil Sonne was told that his three-year-old son had autism, the Danish IT specialist ran the classic gamut of responses for parents of an autistic child, from anger that a doctor could burden his happy boy with the label of a lifelong disability, to a desire to learn everything about the condition. 
+
+
+Few, however, go so far as to embark on a one-man mission to revolutionise society’s isolating attitude to autistics by setting up a company staffed almost entirely by sufferers that has some of the world’s biggest corporations, including Microsoft and Cisco Systems, queuing to buy its services. 
+
+Specialisterne, which has a turnover of £2m and employs more than 40 people with an autism spectrum disorder (ASD) in Denmark, is set to open its first international operation in Glasgow early next year as a test run for an expansion strategy which would see people with ASD working as IT consultants world wide. 
+
+Related articles
+•People with autism 'condemnded to poverty' 
+Search the news archive for more stories 
+The Independent understands that funding could be granted for the scheme next month, paving the way for the first company in Britain which not only predominantly employs autistics but uses the strengths of its staff – phenomenal levels of numeracy, concentration and memory – to beat off rivals in one of the world’s most competitive industries. 
+
+Inspired by the talents of his son Lars, who once stunned his father by reproducing from memory a road map of Europe, Mr Sonne set up Specialisterne (Specialists in English) six years ago, concerned at the exclusion from the workplace of people with autism and realising that the traits of “high functioning” autistics were in demand among computer software companies. 
+
+Mr Sonne, 49, a father of three, said: “I wanted Lars [to have] the same chances as his brothers. When you say autism most people think of the film, Rainman, and the common perception is that anyone with such a condition is unemployable. 
+
+“I came to realise this was very far from the truth. As long as someone with autism could feel comfortable in a workplace and have the social confidence to perform a job then they would have skills that made them more capable than others to perform certain tasks which required large degrees of precision, focus and memory recall.” 
+
+After remortgaging his home and recruiting six employees with the version of autism known as Asperger’s syndrome, Mr Sonne persuaded his previous employers, the Danish communications company TDC, to grant him a contract testing mobile phone applications and games. 
+
+When it became clear that the team could repeatedly test the software at a level which “generalists” – Mr Sonne’s term for people without ASD – could not sustain, demand for Specialisterne’s services and its “consultants” took off. The company was employed to test the Danish version of Microsoft’s Windows XP Media Centre and its client list ranges from CSC, a global IT services company, to Nordea, Scandinavia’s largest bank. 
+
+Among the techniques Specialisterne has perfected is the use of a complex form of Lego to assess the abilities of potential employees, whose condition means the social interaction of a formal interview is often impossible. 
+
+Mr Sonne said: “This is not about offering cheap labour or some kind of occupational therapy. We charge market rates, our consultants receive a market salary and that is because they simply do a better job. If you have a piece of software that needs repeated testing, a student being paid to do in Britain or India is going to get bored and lose concentration at the fifth or sixth attempt. 
+
+“Our consultants relish the challenge of that repetition and they can spot anomalies in a large amount of data that others would struggle to spot. We cannot be perfect but our error rate is 0.5 per cent compared to the five per cent for other testers.” 
+
+The company counters any concern that it is ghettoising its workers by pointing out that 70 per cent of its staff work on the premises of the client. A Specialisterne support worker ensures that the most suitable environment – a lack of sudden and loud noise, clear instructions and an average working week of around 25 hours – is provided by the host. 
+
+It is a recipe for success (the company made a profit of £100,000 last year which was ploughed back into the charitable foundation that owns Specialisterne) that Mr Sonne intends to repeat in Scotland. It is understood that software and data-inputting companies north of the border have already expressed interest in the company’s services. 
+
+The National Autistic Society (NAS), which is working with the Danish entrepreneur and other bodies in Scotland to set up the venture, said the company’s groundbreaking techniques could be a vital tool to help people with autism into work. Research to be released by the charity this week shows that 80 per cent of autism sufferers who receive incapacity benefit would like to work. Just 15 per cent of Britain’s 500,000 autistics are in full-time employment. 
+
+Raemond Charles, of the NAS, said: “There is a vast pool of untapped potential out there which we are simply missing. A branch of Specialisterne in the UK would be a very important step in opening up the work place to people with autism.” 
+
+In the meantime, Mr Sonne said that if proof were needed of the benefits of his company’s work then look no further than his staff. He said: “I have seen people transformed. One of our consultants had not worked for 24 years. Now he is testing for Cisco Systems. He finally feels he is part of society and respected. He can talk up at family gatherings. He recently got a girlfriend. Lars wants to work for us as a trainer. I see no reason why eventually those who are at lower points in the autistic spectrum should not work as well.” 
+
+Private Medical Cover from £30 per month with Independent Compare 
+
+
+
+
+http://www.hdadvocates.org/_files/MiscProducts/HDA_HealthCareReformProposals102009.pdf
+
+
+
